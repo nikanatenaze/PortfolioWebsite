@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/NateWeb',
+  basePath: '/PortfolioWebsite',
   supportedLocales: {
   "en-US": ""
 },
