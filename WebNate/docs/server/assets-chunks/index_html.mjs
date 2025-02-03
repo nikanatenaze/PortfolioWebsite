@@ -1,0 +1,13 @@
+export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
+  <meta charset="utf-8">
+  <title>WebNate</title>
+  <base href="/NateWeb/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<style>*{margin:0;padding:0;box-sizing:border-box}
+</style><link rel="stylesheet" href="styles-7HCKL3HY.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-7HCKL3HY.css"></noscript><style ng-app-id="ng">.nav-app[_ngcontent-ng-c1260535513]{position:fixed;width:100%;transition:transform .3s ease-in-out}.Hidden-Nav[_ngcontent-ng-c1260535513]{transform:translateY(-12vh)}</style><style ng-app-id="ng">.Nav[_ngcontent-ng-c447005451]{width:100%;height:8vh;background-color:#000;position:fixed;top:0}.Nav-Label[_ngcontent-ng-c447005451]{display:flex;width:100%;height:100%;justify-content:center;align-items:center}.Nav-Main[_ngcontent-ng-c447005451]{width:100%;height:100%;background-color:#fff3;-webkit-backdrop-filter:blur(20px);backdrop-filter:blur(20px);display:flex;align-items:center;justify-content:center}.Content[_ngcontent-ng-c447005451]{display:flex;align-items:center;justify-content:space-between;width:95%;height:90%}.title[_ngcontent-ng-c447005451]{font-size:30px;color:#fff}</style></head>
+<body><!--nghm-->
+  <app-root ng-version="19.1.4" _nghost-ng-c1260535513 ngh="0" ng-server-context="ssg"><app-navigation _ngcontent-ng-c1260535513 id="Nav" class="nav-app" _nghost-ng-c447005451 ngh="0"><nav _ngcontent-ng-c447005451 class="Nav"><div _ngcontent-ng-c447005451 class="Nav-Label"><div _ngcontent-ng-c447005451 class="Nav-Main"><div _ngcontent-ng-c447005451 class="Content"><p _ngcontent-ng-c447005451 class="title">NateWeb</p></div></div></div></nav></app-navigation><section _ngcontent-ng-c1260535513 style="width: 100%; height: 1000vh;"></section></app-root>
+<script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-KW7K5IB6.js" type="module"></script>
+
+<script id="ng-state" type="application/json">{"__nghData__":[{}]}</script></body></html>`;
